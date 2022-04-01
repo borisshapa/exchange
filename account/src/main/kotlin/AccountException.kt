@@ -1,0 +1,1 @@
+class AccountException(msg: String) : Exception(msg)

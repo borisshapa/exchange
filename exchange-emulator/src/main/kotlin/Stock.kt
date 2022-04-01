@@ -1,0 +1,1 @@
+class Stock (val companyName: String, var price: Double, var quantity: Int)

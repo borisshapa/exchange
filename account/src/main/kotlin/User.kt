@@ -1,0 +1,1 @@
+class User(val id: Int, val name: String, var money: Double, var stocks: MutableMap<String, Int>)
